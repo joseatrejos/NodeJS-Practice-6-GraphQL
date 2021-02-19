@@ -1,5 +1,5 @@
 type Query {
-    receta(id: ID): receta
+    receta(id: ID): Receta
     pid: Int
 }
 
